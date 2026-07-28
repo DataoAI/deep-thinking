@@ -1,6 +1,6 @@
 # Deep Thinking — AI深度思考框架
 
-> 🌐 中文 · [English](./README.en.md)（待翻译）
+> 🌐 [English](./README.en.md)
 
 让AI在回答任何问题之前，先经过一个系统化的深度思考过程，而不是直接给出表层答案。
 
