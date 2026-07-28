@@ -54,6 +54,21 @@ Deep Thinking 是一个结构化的思考框架，要求AI在输出最终回答�
 
 > 如果觉得每次都用太繁琐，也可以加一条例外规则：用户说"快速回答"或"简单回复"时可以跳过。**是否强制执行完全取决于你的使用习惯。**
 
+## 最佳配合：思路碰撞（Deep Question）
+
+Deep Thinking 负责"想清楚"，思路碰撞负责"说明白"。
+
+实际使用中，它们是**循环配合**的：
+
+1. 你有一个模糊的想法 → 先用 **Deep Thinking** 自己深度思考，理出大概方向和问题
+2. 拿着这个方向去跟AI**思路碰撞**，在对话中进一步澄清
+3. 碰撞中产生新的问题 → 再让AI**深度思考**一轮
+4. 再碰撞、再思考...
+
+每一次循环，思路就更清晰一层。
+
+→ [思路碰撞（Deep Question）](https://github.com/DataoAI/deep-question)
+
 ## 项目关联
 
 - [deep-question](https://github.com/DataoAI/deep-question) — 深度问答碰撞框架
